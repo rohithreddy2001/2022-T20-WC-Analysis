@@ -1,0 +1,7 @@
+CA3E47 -red
+282D4F -blue
+#E4B486 -light gold
+99BC85 -light green
+
+
+This Project is based on cricket. It analyzes player performance in all categories and makes it easy to select the final 11 based on individual performance.
